@@ -1,5 +1,8 @@
 # Team Profile Generator
 
+## Video Demonstration URL
+https://youtu.be/cgM8poUoXvc
+
 ## Description
   This application creates an easy way to create profiles for various job roles, and makes it fast at that. 
 
@@ -10,7 +13,6 @@
   npm test
 
 ## Usage
-  
   
 ## License
 Project contains a license under the MIT license.
